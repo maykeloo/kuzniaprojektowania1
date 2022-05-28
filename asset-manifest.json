@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/kuzniaprojektowania1/static/js/main.53a4824d.js",
+    "static/media/desktop-image-hero-1.jpg": "/kuzniaprojektowania1/static/media/desktop-image-hero-1.91901d0d47ea68db9434.jpg",
+    "static/media/image-about-dark.jpg": "/kuzniaprojektowania1/static/media/image-about-dark.329bbc446c27ddf69d0f.jpg",
+    "static/media/LOGOTYPSVG.svg": "/kuzniaprojektowania1/static/media/LOGOTYPSVG.19d6ca7816e44e8ad8f833d0a0590a8a.svg",
+    "index.html": "/kuzniaprojektowania1/index.html",
+    "static/media/icon-arrow.svg": "/kuzniaprojektowania1/static/media/icon-arrow.0ef748bbb7ba276a92a0eb8421b33520.svg",
+    "main.53a4824d.js.map": "/kuzniaprojektowania1/static/js/main.53a4824d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.53a4824d.js"
+  ]
+}
